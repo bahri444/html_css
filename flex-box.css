@@ -1,0 +1,140 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: forestgreen;
+}
+
+.container {
+    width: 92%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.sub_container_left {
+    width: 50%;
+    height: 270px;
+}
+
+.box1 {
+    width: 100%;
+    height: 80px;
+    background-color: blueviolet;
+    margin-bottom: 10px;
+}
+
+.component {
+    width: 100%;
+    height: wrap;
+    display: flex;
+    justify-content: space-between;
+}
+
+.component_left {
+    width: 48%;
+    height: wrap;
+}
+
+.component_right {
+    width: 48%;
+    height: wrap;
+}
+
+.box2 {
+    width: 100%;
+    height: 120px;
+    background-color: brown;
+}
+
+.box3 {
+    width: 100%;
+    height: 40px;
+    background-color: aquamarine;
+    margin-top: 10px;
+}
+
+.box4 {
+    width: 100%;
+    height: 175px;
+    background-color: cadetblue;
+}
+
+.sub_container_right {
+    width: 40%;
+    height: 270px;
+}
+
+.component2 {
+    width: 100%;
+    height: 180px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.component_left2 {
+    width: 47%;
+    height: 50px;
+}
+
+.box5 {
+    width: 100%;
+    height: 50px;
+    background-color: chocolate;
+}
+
+.box6 {
+    width: 100%;
+    height: 50px;
+    background-color: blueviolet;
+    margin-top: 10px;
+}
+
+.box7 {
+    width: 100%;
+    height: 50px;
+    background-color: coral;
+    margin-top: 10px;
+}
+
+.component_right2 {
+    width: 47%;
+    height: 160px;
+}
+
+.box8 {
+    width: 100%;
+    height: 50px;
+    background-color: #212121;
+}
+
+.box9 {
+    width: 100%;
+    height: 50px;
+    background-color: cornflowerblue;
+    margin-top: 10px;
+}
+
+.box10 {
+    width: 100%;
+    height: 50px;
+    background-color: bisque;
+    margin-top: 10px;
+}
+
+.end_box {
+    width: 100%;
+    height: 80px;
+    background-color: aqua;
+    margin-top: 10px;
+}
+
+p {
+    color: #fff;
+    font-size: 120px;
+    text-align: center;
+    margin-top: 10px;
+}
